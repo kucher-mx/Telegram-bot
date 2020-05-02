@@ -1,0 +1,19 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "like your msg",
+  "main": "bottg.js",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kucher -mx",
+  "license": "ISC"
+}
